@@ -20,8 +20,6 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
 
-
-
-img
+<img src="../Imgs/Cybersecurity/busqueda_google.png" alt="busqueda" width="600">
 
 
