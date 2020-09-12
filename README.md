@@ -1,4 +1,4 @@
-# python-challenge
+# Analysis of Financial and Election Data
  
 Using CSV files of election and financial data, I computed profit and losses over the entire period of time in the files and then created a text file (located in the "analysis" folder) with the results. The financial results are:
 
@@ -8,3 +8,5 @@ For the elections file, I analyzed the people who voted to get the winning candi
 
 <img src="election.png" alt="election" width="400">
 
+## Built with
+* Python
